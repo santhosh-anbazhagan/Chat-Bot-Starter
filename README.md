@@ -53,7 +53,7 @@ Simple Bot Chat V 2.0 is a beginner-friendly chatbot application built with Pyth
 
 ## Sample Output
 
-![Sample Chat Output](https://alienchatbot.streamlit.app/)
+- Sample Chat Output: (https://alienchatbot.streamlit.app/)
 
 ## Contributions
 Contributions are welcome! If you'd like to improve this project:
