@@ -1,8 +1,8 @@
 # Simple Bot Chat V 2.0
 
-![Chatbot Demo](samples/chatbot_demo.png)
-![Chatbot Demo](samples/chatbot_demo.png)
-![Chatbot Demo](samples/chatbot_demo.png)
+![Chatbot Demo](samples/sample1.png)
+![Chatbot Demo](samples/sample2.png)
+![Chatbot Demo](samples/sample3.png)
 
 ## Overview
 Simple Bot Chat V 2.0 is a beginner-friendly chatbot application built with Python and Streamlit. It provides a conversational interface with pre-defined menu options and free-text input capabilities. This project is ideal for those learning chatbot development and exploring interactive applications with Streamlit.
