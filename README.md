@@ -18,8 +18,8 @@ Simple Bot Chat V 2.0 is a beginner-friendly chatbot application built with Pyth
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/santhosh-anbazhagan/simple-bot-chat.git
-   cd simple-bot-chat
+   https://github.com/santhosh-anbazhagan/Chat-Bot-Starter.git
+   cd Chat-Bot-Starter
    ```
 
 2. Install the required dependencies:
